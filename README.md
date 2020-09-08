@@ -1,1 +1,1 @@
-# GitChceck
+# GitCheck
